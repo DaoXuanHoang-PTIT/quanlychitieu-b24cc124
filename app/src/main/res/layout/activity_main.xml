@@ -103,7 +103,7 @@
         android:id="@+id/btnAddProduct"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="+ Thêm khoản chi"
+        android:text="+ Thêm sản phẩm"
         android:backgroundTint="#00796B"
         android:textColor="#FFFFFF"
         android:layout_marginTop="8dp" />

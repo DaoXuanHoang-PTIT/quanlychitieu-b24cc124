@@ -115,7 +115,7 @@
             android:id="@+id/btnSave"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Lưu khoản chi"
+            android:text="Lưu sản phẩm"
             android:backgroundTint="#00796B"
             android:textColor="#FFFFFF" />
 
