@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Quản lý chi tiêu"
+        android:text="Quản lý kho hàng"
         android:textSize="20sp"
         android:textStyle="bold"
         android:textColor="#00796B"
@@ -28,7 +28,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Tổng số tiền đã chi"
+            android:text="Tổng số tiền "
             android:textColor="#FFFFFF"
             android:textSize="12sp" />
 
@@ -84,7 +84,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Danh sách khoản chi"
+        android:text="Danh sách sản phầm"
         android:textStyle="bold"
         android:textSize="14sp"
         android:paddingBottom="4dp" />

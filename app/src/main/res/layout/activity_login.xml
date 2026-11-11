@@ -21,7 +21,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Quản lý chi tiêu"
+        android:text="Quản lý kho hàng"
         android:textSize="22sp"
         android:textStyle="bold"
         android:textColor="#000000" />
